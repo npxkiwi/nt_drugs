@@ -6,6 +6,6 @@ Til vRP
 * Oxlib
 * vRP
 
-# Cradit
+# Credit
 * ._.notepad
 * kiwiimmadoyoudirty
