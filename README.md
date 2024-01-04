@@ -9,3 +9,12 @@ Til vRP
 # Credit
 * ._.notepad
 * kiwiimmadoyoudirty
+
+# Showcase
+https://streamable.com/0yr5zj
+
+# Exploit patch
+Folk kan ikke exploit dette script.
+
+## Logs
+Der er logs på alt
