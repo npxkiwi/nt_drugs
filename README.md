@@ -18,3 +18,7 @@ Folk kan ikke exploit dette script.
 
 ## Logs
 Der er logs på alt
+
+# Inspireret
+
+Inspireret af navigaterp
