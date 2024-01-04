@@ -22,3 +22,4 @@ Der er logs på alt
 # Inspireret
 
 Inspireret af navigaterp
+https://discord.gg/navigate
