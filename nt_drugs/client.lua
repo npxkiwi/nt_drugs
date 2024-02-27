@@ -26,7 +26,7 @@ Citizen.CreateThread(function()
                         if IsControlJustReleased(1, 38) then
                             startfarm(v.Item, v.itemname, true) -- Starter omdan process med det valge drug item
                             local item = v.Item
-                            print("Farm item: ".. item)
+                            --print("Farm item: ".. item)
                         end
                     else
                         lib.hideTextUI()
